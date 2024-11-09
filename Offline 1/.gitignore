@@ -1,0 +1,9 @@
+Solution/.venv
+Solution/bin
+Solution/include
+Solution/lib
+Solution/lib64
+*.mkv
+share
+*.cfg
+test

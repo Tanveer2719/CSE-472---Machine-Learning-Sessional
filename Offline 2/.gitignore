@@ -1,0 +1,11 @@
+CustomImplementations
+bin
+include
+lib
+lib64
+preprocessors
+_*
+Program_Data
+share
+*.cfg
+.goutputstream*
